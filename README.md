@@ -3,8 +3,8 @@
 Este es un proyecto de blog que permite a los usuarios registrados publicar reseñas de películas y series. Los usuarios también pueden ver las reseñas y realizar acciones como iniciar sesión, registrarse, actualizar y eliminar sus propias publicaciones.
 
 ![image](https://github.com/RodoPellegrini/Rodo-Market/assets/135058071/020c7d0b-05a9-4da2-90fa-c4f667999dd4)
-
-
+![image](https://github.com/RodoPellegrini/Rodo-Market/assets/135058071/e4e6da4c-e2e0-4dd3-ac68-fe80cc4af828)
+![image](https://github.com/RodoPellegrini/Rodo-Market/assets/135058071/f9316cff-0836-48fa-afdf-180b98989abe)
 
 ## Requisitos
 
